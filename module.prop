@@ -1,0 +1,6 @@
+id=touch-fix
+name=Touch fix for OnePlus 8T/9R
+version=v0.0.1
+versionCode=00001
+author=vanbka9
+description=Disable the touchpanel edge limit for OnePlus 8T/9R
